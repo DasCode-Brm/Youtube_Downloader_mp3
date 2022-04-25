@@ -10,7 +10,7 @@ from getpass import getuser
 user = getuser()
 path = rf'C:\Users\{user}\Downloads'
 
-print("welcome to the downloader music, press ctrl+2 for exit ")
+print("Welcome to music downloader, press ctrl+2 for exit ")
 
 while True:
 
